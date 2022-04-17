@@ -55,3 +55,9 @@ button:hover {
   color: white;
   background-color: #423d3d;
 }
+
+footer {
+font-size: 2rem;
+font-family: 'Times New Roman', Times, serif;
+margin-top: 18rem;
+}
