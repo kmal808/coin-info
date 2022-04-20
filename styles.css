@@ -55,6 +55,7 @@ button {
 button:hover {
   color: white;
   background-color: #423d3d;
+  cursor: pointer;
 }
 
 footer {
