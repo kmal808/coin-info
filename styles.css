@@ -59,8 +59,9 @@ button:hover {
 }
 
 footer {
-font-size: 2rem;
-font-family: 'Times New Roman', Times, serif;
-margin-top: 18rem;
+  border: 2px solid black;
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 18rem;
 }
 
