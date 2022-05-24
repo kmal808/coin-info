@@ -7,5 +7,9 @@ Live site ⬇️: </br>
 
 https://kmal808.github.io/coin-info/ </br>
 
-WIP 🏗️
+WIP 🏗️ </br>
+
+This was a project with the goal of using a public api to return and diplay data.
+
+
 
