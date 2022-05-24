@@ -2,7 +2,7 @@
 document.querySelector('button').addEventListener('click', getCoin)
 
 function getCoin() {
-let coin = document.querySelector('input').value 
+let coin = document.querySelector('input').value.toLowerCase() 
 
 fetch(`https://api.coincap.io/v2/assets/${coin}`)
 .then(res => res.json())
