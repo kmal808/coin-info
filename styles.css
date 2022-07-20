@@ -1,72 +1,68 @@
 body {
-  font-size: 62.5%;
-  width: auto;
-  height: 93vh;
-  align-items: center;
-  text-align: center;
-  background-image: linear-gradient(rgb(235, 224, 224), #837878);
-  background-repeat: no-repeat;
-  background-size: cover;
+	font-size: 62.5%;
+	width: auto;
+	height: 100vh;
+	align-items: center;
+	text-align: center;
+	background-image: linear-gradient(rgb(235, 224, 224), #837878);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 h1 {
-  min-width: 50%;
-  font-family: monospace;
-  font-size: 4rem;
-  border: 5px solid black;
-  border-radius: 10px;
-  text-align: center;
-  justify-content: center;
-  margin-left: 25%;
-  margin-right: 25%;
-  padding-bottom: .40rem;
+	min-width: 50%;
+	font-family: monospace;
+	font-size: 4rem;
+	border: 5px solid black;
+	border-radius: 10px;
+	text-align: center;
+	justify-content: center;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding-bottom: 0.4rem;
 }
 
-* {
-  margin: 2% 0 2% 0;
-  padding: auto;
-
-}
-
-h2, h3, h4, span {
-  font-size: 1.5rem;
-  font-family: monospace;
+h2,
+h3,
+h4,
+span {
+	font-size: 1.5rem;
+	font-family: monospace;
 }
 
 span {
-  color: #423d3d;
+	color: #423d3d;
 }
 
 input {
-  min-width: 15%;
-  height: 3%;
-  border: 2px solid black;
-  border-radius: 10px;
-  padding-left: 15px;
+	min-width: 15%;
+	height: 3%;
+	border: 2px solid black;
+	border-radius: 10px;
+	padding-left: 15px;
 }
 
 button {
-  min-width: 7%;
-  height: 3%;
-  border: 2px solid black;
-  border-radius: 10px;
+	min-width: 7%;
+	height: 3%;
+	border: 2px solid black;
+	border-radius: 10px;
 }
 
 button:hover {
-  color: white;
-  background-color: #423d3d;
-  cursor: pointer;
+	color: white;
+	background-color: #423d3d;
+	cursor: pointer;
 }
 
 footer {
-  margin-left: 42.5vw;
-  width: 12.5%;
-  background-color: rgb(86, 70, 48);
-  border: 2px solid black;
-  border-radius: 5px;
-  font-size: 2rem;
-  font-family: 'Times New Roman', Times, serif;
-  margin-top: 18rem;
-  color: whitesmoke;
+	margin-left: 42.5vw;
+	width: 12.5%;
+	background-color: rgb(86, 70, 48);
+	border: 2px solid black;
+	border-radius: 5px;
+	font-size: 2rem;
+	font-family: 'Times New Roman', Times, serif;
+	margin-top: 18rem;
+	color: whitesmoke;
 }
-
