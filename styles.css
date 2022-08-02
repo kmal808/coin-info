@@ -58,11 +58,12 @@ button:hover {
 footer {
 	margin-left: 42.5vw;
 	width: 12.5%;
-	background-color: rgb(86, 70, 48);
+	background-color: rgb(126, 109, 84);
 	border: 2px solid black;
 	border-radius: 5px;
 	font-size: 2rem;
 	font-family: 'Times New Roman', Times, serif;
-	margin-top: 18rem;
+	margin-top: 35rem;
 	color: whitesmoke;
+	text-decoration: none;
 }
